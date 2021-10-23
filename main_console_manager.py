@@ -1,6 +1,6 @@
 import sys,os.path
 from Functions_manager.module_for_manager import create_file, create_folder, get_list, del_file, copy_file, save_info, datetime, change_dir, direct_
-from Pract_6 import game
+from Functions_manager.pract_6 import game
 command=''
 while command!='stop':
 
